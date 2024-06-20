@@ -26,5 +26,10 @@
 			"Name": "FMODStudio",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"IOS",
+		"Mac",
+		"Windows"
 	]
 }
